@@ -7,3 +7,4 @@
 <h1>Creting Devops for morning batches images and deploying to tomcat server</h1>
 <h2>hello guys</h2>
 <h2>devops training going on, need to practice more everyday, hello all read all and practice</h2>
+<h3>hello all. good evening. how are you doing</h3>
